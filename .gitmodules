@@ -1,0 +1,6 @@
+[submodule "Curricula-Backend"]
+	path = Curricula-Backend
+	url = https://github.com/2002javareact/Curricula-Backend.git
+[submodule "Curricula-UI"]
+	path = Curricula-UI
+	url = https://github.com/2002javareact/Curricula-UI.git
